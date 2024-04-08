@@ -18,8 +18,10 @@ def divide(a, b):
         return "Division by zero is not allowed!"
 
 # data input
-num1 = float(input("Enter first number: "))
-num2 = float(input("Enter second number: "))
+num1 = 2#float(input("Enter first number: "))
+num2 = 2#float(input("Enter second number: "))
+
+
 
 # calculations
 result_add = add(num1, num2)
