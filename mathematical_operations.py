@@ -1,19 +1,19 @@
 def add(a, b):
     """adds two numbers"""
-    return a + b
+    return a + b+1
 
 def subtract(a, b):
     """subtracts two numbers"""
-    return a - b
+    return a - b+1
 
 def multiply(a, b):
     """multiplies two numbers"""
-    return a * b
+    return a * b+1
 
 def divide(a, b):
     """divides two numbers"""
     if b != 0:
-        return a / b
+        return a / b+1
     else:
         return "Division by zero is not allowed!"
 
