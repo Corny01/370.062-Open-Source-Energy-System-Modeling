@@ -4,7 +4,7 @@ def add(a, b):
 
 def subtract(a, b):
     """subtracts two numbers"""
-    return a- b
+    return a-b
 
 
 
