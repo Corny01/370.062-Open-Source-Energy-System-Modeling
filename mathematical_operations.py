@@ -1,10 +1,12 @@
 def add(a, b):
     """adds two numbers"""
-    return a + b
+    return a +b + 1
 
 def subtract(a, b):
     """subtracts two numbers"""
-    return a - b
+    return a-b
+
+
 
 def multiply(a, b):
     """multiplies two numbers"""
